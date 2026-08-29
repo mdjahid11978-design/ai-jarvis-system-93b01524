@@ -1,0 +1,14 @@
+schema: jahids.ai/repository-standard/v1
+project: ai-jarvis-system-93b01524
+account: mdjahid11978-design
+canonical_platform: mdjahid11978-design/jahids.ai
+classification: upstream-maintained
+presentation: ADAPTED & MAINTAINED BY JAHID
+upstream_identity: preserved
+branding:
+  banner: https://raw.githubusercontent.com/mdjahid11978-design/jahids.ai/main/assets/jahids-ai-banner.svg
+  standard: https://github.com/mdjahid11978-design/.github
+verification:
+  production_claims_require_evidence: true
+provenance:
+  third_party_rights_preserved: true
